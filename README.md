@@ -41,7 +41,7 @@ Most of my code lives in private repositories, so the portfolio is the best tour
 ### Works in progress
 
 - **Lemma** · a native iPad notes app with handwriting, typed text, and PDFs.
-- **Karan HQ** · a planner for iPhone, web, and Mac with a shared sync API.
+- **Daily Planner** · my daily planner for iPhone, web, and Mac with a shared sync API.
 
 ## Say hi
 

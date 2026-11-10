@@ -2,9 +2,9 @@
 
 # Hi, I'm Karan
 
-I'm a junior studying CS at Michigan. I interned at Visa and Gallagher Kaiser and shipped two iOS apps solo. I also build fun side projects, like turning my portfolio into a game.
+I'm a junior studying CS at Michigan. Last summer I interned at Visa. I also love building apps and have shipped two iOS apps solo and am working on a couple more. I also build fun side projects, like turning my portfolio into a game.
 
-**[Play it at ksharm.dev](https://ksharm.dev).** Walk around campus, talk to the Big Ten mascots, and find my projects. It works on a phone too.
+**[Play it at ksharm.dev](https://ksharm.dev).** It’s kind of similar to Stardew Valley and Pokémon Emerald, and you can play it on your phone too.
 
 ## Trainer card
 
@@ -18,7 +18,7 @@ I'm a junior studying CS at Michigan. I interned at Visa and Gallagher Kaiser an
 
 ## Projectdex
 
-Most of my code lives in private repositories, so the portfolio is the best tour. The short version:
+Most of my code lives in private repos, so the portfolio is the best tour. The short version:
 
 ### Internships
 

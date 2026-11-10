@@ -40,7 +40,7 @@ Most of my code lives in private repos, so the portfolio is the best tour. The s
 
 ### Works in progress
 
-- **Lemma** · a native iPad notes app with handwriting, typed text, and PDFs.
+- **Lemma** · a native iPad notes app with handwriting, typed text, and PDFs. Building Canvas integration to sync up LaTeX and other assignments.
 - **Daily Planner** · my daily planner for iPhone, web, and Mac with a shared sync API.
 
 ## Say hi
